@@ -1,0 +1,107 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Host Group Colors
+DATA
+NC_038515.1 Laibin virus	#32cd32	Chiroptera
+KT316176.1 Makokou virus	#32cd32	Chiroptera
+MN337866.1 Sarawak mobatvirus	#32cd32	Chiroptera
+MG663536.1 Dakrong virus	#32cd32	Chiroptera
+JX193700.1 Kilimanjaro virus	#ffd700	Eulipotyphla
+KX779125.1 Imjin virus	#ffd700	Eulipotyphla
+KU950715.1 Quezon virus	#32cd32	Chiroptera
+KR920360.1 Brno virus	#32cd32	Chiroptera
+OM912841.1 Loanvirus brunaense	#32cd32	Chiroptera
+KX845680.1 Brno virus	#32cd32	Chiroptera
+OM912842.1 Loanvirus brunaense	#32cd32	Chiroptera
+OM912840.1 Loanvirus brunaense	#32cd32	Chiroptera
+OM963009.1 Loanvirus brunaense	#32cd32	Chiroptera
+OM912844.1 Loanvirus brunaense	#32cd32	Chiroptera
+OM912843.1 Loanvirus brunaense	#32cd32	Chiroptera
+MK165653.1 Orthohantavirus robinaense	#32cd32	Chiroptera
+KJ000540.1 Mouyassue virus	#32cd32	Chiroptera
+KY040508.1 Asturias virus	#ffd700	Eulipotyphla
+KT899703.1 Fugong virus	#1e90ff	Rodentia
+MN850095.1 Orthohantavirus andesense	#FFFFFF	ND
+AF005729.1 Orthohantavirus negraense	#1e90ff	Rodentia
+NC_043407.1 Necocli virus	#1e90ff	Rodentia
+GQ200821.1 Orthohantavirus delgaditoense	#1e90ff	Rodentia
+EU788002.1 Maporal virus	#1e90ff	Rodentia
+GU997097.1 Orthohantavirus nigrorivense	#1e90ff	Rodentia
+FJ858378.1 Catacamas virus	#1e90ff	Rodentia
+NC_038299.1 Orthohantavirus bayoui	#1e90ff	Rodentia
+AB620102.1 Orthohantavirus montanoense	#1e90ff	Rodentia
+AB620105.1 Carrizal virus	#1e90ff	Rodentia
+HM015222.1 Rockport virus	#ffd700	Eulipotyphla
+MN639746.1 Orthohantavirus puumalaense	#1e90ff	Rodentia
+AB677488.1 Ussuri virus	#1e90ff	Rodentia
+JX028271.1 Muju virus	#1e90ff	Rodentia
+KJ857315.1 Orthohantavirus khabarovskense	#1e90ff	Rodentia
+KJ857316.1 Yuanjiang virus	#1e90ff	Rodentia
+MK883761.1 Orthohantavirus tatenalense	#1e90ff	Rodentia
+KY751731.1 Kielder hantavirus	#1e90ff	Rodentia
+MK542664.1 Traemmersee orthohantavirus	#1e90ff	Rodentia
+MT441741.1 Rusne orthohantavirus	#1e90ff	Rodentia
+HQ728461.1 Orthohantavirus tulaense	#1e90ff	Rodentia
+KC880348.1 Orthohantavirus asikkalaense	#ffd700	Eulipotyphla
+GU566021.1 Qian Hu Shan virus	#ffd700	Eulipotyphla
+KJ857320.1 Kenkeme virus	#ffd700	Eulipotyphla
+KF974361.1 Amga virus	#ffd700	Eulipotyphla
+JX990941.1 Seewis virus	#ffd700	Eulipotyphla
+MN006903.1 Jemez Springs virus	#ffd700	Eulipotyphla
+JX990965.1 Boginia virus	#ffd700	Eulipotyphla
+KF705679.1 Xinyi virus	#ffd700	Eulipotyphla
+EU929078.1 Asama virus	#ffd700	Eulipotyphla
+NC_043175.1 Oxbow virus	#ffd700	Eulipotyphla
+EF050454.1 Tanganya virus	#ffd700	Eulipotyphla
+KC631784.1 Bowe virus	#ffd700	Eulipotyphla
+HQ834697.1 Jeju virus	#ffd700	Eulipotyphla
+MF683846.1 Orthohantavirus brugesense	#ffd700	Eulipotyphla
+KC490923.1 Anjozorobe virus	#1e90ff	Rodentia
+AM998806.1 Serang virus	#1e90ff	Rodentia
+LC553715.1 Orthohantavirus thailandense	#1e90ff	Rodentia
+GU904045.1 Orthohantavirus dobravaense	#FFFFFF	ND
+AB620030.1 Amur virus	#1e90ff	Rodentia
+AY675354.1 Soochong virus-2	#1e90ff	Rodentia
+MN608087.1 Orthohantavirus hantanense	#8a2be2	Primates
+DQ268652.1 Orthohantavirus sangassouense	#1e90ff	Rodentia
+KF704716.1 Xuan son virus	#32cd32	Chiroptera
+KF704717.1 Xuan son virus	#32cd32	Chiroptera
+KF704715.1 Xuan son virus	#32cd32	Chiroptera
+JX912953.2 Xuan son virus	#32cd32	Chiroptera
+KF704713.1 Xuan son virus	#32cd32	Chiroptera
+JN037851.1 Hantavirus MGB/1209	#32cd32	Chiroptera
+KM102249.1 Laibin virus	#32cd32	Chiroptera
+JX990946.1 Nova virus	#ffd700	Eulipotyphla
+KR072623.1 Nova virus	#ffd700	Eulipotyphla
+KF031355.1 Nova virus	#ffd700	Eulipotyphla
+FJ593498.1 Nova virus	#ffd700	Eulipotyphla
+KF010517.1 Nova virus	#ffd700	Eulipotyphla
+JQ287716.2 Mouyassue virus	#32cd32	Chiroptera
+JX465369.1 Huangpi virus	#32cd32	Chiroptera
+EU424341.1 Altai virus	#ffd700	Eulipotyphla
+EF641806.1 Imjin virus	#ffd700	Eulipotyphla
+EF641807.1 Imjin virus	#ffd700	Eulipotyphla
+EU001330.1 Thottapalayam virus	#ffd700	Eulipotyphla
+JX193697.1 Uluguru virus	#ffd700	Eulipotyphla
+JX465379.1 Longquan virus	#32cd32	Chiroptera
+JX465383.1 Longquan virus	#32cd32	Chiroptera
+JX465381.1 Longquan virus	#32cd32	Chiroptera
+JX465382.1 Longquan virus	#32cd32	Chiroptera
+OR684449.1 Buritiense virus	#32cd32	Chiroptera
+NC_078262.1 Xuan son virus	#32cd32	Chiroptera
+NC_055632.1 Orthohantavirus robinaense	#32cd32	Chiroptera
+NC_034401.1 Quezon virus	#32cd32	Chiroptera
+KX512432.1 Nova virus	#ffd700	Eulipotyphla
+NC_078485.1 Lena virus	#ffd700	Eulipotyphla
+OR934973.1 Loanvirus brunaense	#32cd32	Chiroptera
+OR934974.1 Loanvirus brunaense	#32cd32	Chiroptera
+MG386252.1 Orthohantavirus seoulense	#8a2be2	Primates
+OR047284.1 Orthohantavirus seoulense	#8a2be2	Primates
+KU297981.1 Orthohantavirus tulaense	#8a2be2	Primates
+MT993951.1 Orthohantavirus tulaense	#8a2be2	Primates
+MK605664.1 Orthohantavirus dobravaense	#8a2be2	Primates
+MK605665.1 Orthohantavirus dobravaense	#8a2be2	Primates
+MW349026.1 Orthohantavirus hantanense	#8a2be2	Primates
+MZ191082.1 Orthohantavirus hantanense	#8a2be2	Primates
+ON571586.1 Orthohantavirus sinnombreense	#8a2be2	Primates
+ON571589.1 Orthohantavirus sinnombreense	#8a2be2	Primates

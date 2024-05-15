@@ -1,0 +1,103 @@
+NC_038515.1 Taphozous melanopogon
+KT316176.1 Hipposideros ruber
+MN337866.1 Murina aenea
+MG663536.1 Aselliscus stoliczkanus (Stoliczka's Asian trident bat)
+JX193700.1 Myosorex zinki
+KX779125.1 Crocidura lasiura
+KU950715.1 Rousettus amplexicaudatus
+KR920360.1 Nyctalus noctula
+OM912841.1 Nyctalus noctula
+KX845680.1 Nyctalus noctula
+OM912842.1 Nyctalus noctula
+OM912840.1 Nyctalus noctula
+OM963009.1 Nyctalus noctula
+OM912844.1 Nyctalus noctula
+OM912843.1 Nyctalus noctula
+MK165653.1 Pteropus alecto
+KJ000540.1 Neoromicia nanus
+KY040508.1 Talpa occidentalis
+KT899703.1 Eothenomys eleusis
+MN850095.1 ND
+AF005729.1 Calomys laucha
+NC_043407.1 Zygodontomys brevicauda cherriei voucher Roedor 84
+GQ200821.1 Sigmodon alstoni (Alston's cotton rat)
+EU788002.1 Oligoryzomys fulvescens (fulvous pygmy rice rat)
+GU997097.1 Sigmodon hispidus
+FJ858378.1 Oryzomys couesi (Coues' rice rat)
+NC_038299.1 Oryzomys palustris (marsh rice rat)
+AB620102.1 Peromyscus beatae
+AB620105.1 Reithrodontomys sumichrasti
+HM015222.1 Scalopus aquaticus
+MN639746.1 bank vole
+AB677488.1 Myodes rufocanus
+JX028271.1 Myodes regulus
+KJ857315.1 Microtus maximowiczii
+KJ857316.1 Microtus fortis
+MK883761.1 Microtus agrestis
+KY751731.1 Microtus agrestis
+MK542664.1 Microtus agrestis
+MT441741.1 Microtus oeconomus
+HQ728461.1 Microtus arvalis
+KC880348.1 Sorex minutus
+GU566021.1 Sorex cylindricauda
+KJ857320.1 Sorex roboratus
+KF974361.1 Sorex caecutiens
+JX990941.1 Sorex araneus
+MN006903.1 Sorex monticolus
+JX990965.1 Neomys fodiens
+KF705679.1 Anourosorex yamashinai; female
+EU929078.1 Urotrichus talpoides
+NC_043175.1 Neurotrichus gibbsii
+EF050454.1 Crocidura theresae
+KC631784.1 Crocidura douceti
+HQ834697.1 Crocidura shantungensis
+MF683846.1 Talpa europaea
+KC490923.1 Rattus rattus
+AM998806.1 Rattus tanezumi
+LC553715.1 Bandicota indica
+GU904045.1 ND
+AB620030.1 Apodemus peninsulae
+AY675354.1 Apodemus peninsulae
+MN608087.1 Homo sapiens
+DQ268652.1 Hylomyscus simus
+KF704716.1 Hipposideros pomona; female
+KF704717.1 Hipposideros pomona; female
+KF704715.1 Hipposideros pomona; male
+JX912953.2 Hipposideros pomona voucher VN1982B4; female
+KF704713.1 Hipposideros pomona; male
+JN037851.1 Nycteris hispida
+KM102249.1 Taphozous melanopogon
+JX990946.1 Talpa europaea
+KR072623.1 Talpa europaea
+KF031355.1 Talpa europaea
+FJ593498.1 Talpa europaea
+KF010517.1 Talpa europaea
+JQ287716.2 Neoromicia nanus KB576
+JX465369.1 Pipistrellus abramus
+EU424341.1 Sorex araneus
+EF641806.1 Crocidura lasiura
+EF641807.1 Crocidura lasiura
+EU001330.1 Suncus murinus
+JX193697.1 Myosorex geata
+JX465379.1 Rhinolophus affinis
+JX465383.1 Rhinolophus affinis
+JX465381.1 Rhinolophus affinis
+JX465382.1 Rhinolophus affinis
+OR684449.1 Carollia perspicillata
+NC_078262.1 Hipposideros pomona
+NC_055632.1 Pteropus alecto
+NC_034401.1 Rousettus amplexicaudatus
+KX512432.1 Talpa europaea
+NC_078485.1 Sorex caecutiens
+OR934973.1 Nyctalus noctula
+OR934974.1 Nyctalus noctula
+MG386252.1 Homo sapiens
+OR047284.1 Homo sapiens
+KU297981.1 Homo sapiens
+MT993951.1 Homo sapiens
+MK605664.1 Homo sapiens
+MK605665.1 Homo sapiens
+MW349026.1 Homo sapiens
+MZ191082.1 Homo sapiens
+ON571586.1 Homo sapiens
+ON571589.1 Homo sapiens

@@ -1,0 +1,268 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Linux 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    IliaPC (AVX2, FMA3, 15 GB RAM)
+Command: iqtree2 -s all_seqs_mafft.fa -m GTR+F+I+G4 -pre tree_ufb -bb 1000 -nt AUTO
+Seed:    782323 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Apr 20 14:48:04 2024
+Kernel:  AVX+FMA - auto-detect threads (24 CPU cores detected)
+
+Reading alignment file all_seqs_mafft.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 103 sequences with 6727 columns, 5018 distinct patterns
+4543 parsimony-informative, 346 singleton sites, 1838 constant sites
+             Gap/Ambiguity  Composition  p-value
+   1  AB620030.1     3.46%    passed     70.90%
+   2  AB620102.1     2.94%    passed      9.29%
+   3  AB620105.1     3.12%    passed     42.74%
+   4  AB677488.1     5.11%    passed     11.73%
+   5  AF005729.1    92.26%    passed     59.80%
+   6  AM998806.1    93.88%    passed     28.81%
+   7  AY675354.1     2.88%    passed     11.45%
+   8  DQ268652.1    93.88%    failed      2.20%
+   9  EF050454.1    93.88%    passed      9.06%
+  10  EF641806.1     2.33%    failed      1.82%
+  11  EF641807.1     2.33%    failed      2.42%
+  12  EU001330.1     2.26%    passed     35.14%
+  13  EU424341.1    94.98%    passed      8.00%
+  14  EU788002.1     2.44%    passed     91.64%
+  15  EU929078.1     8.28%    passed     22.53%
+  16  FJ593498.1     2.44%    failed      0.06%
+  17  FJ858378.1     2.48%    passed     14.89%
+  18  GQ200821.1     2.21%    passed     34.84%
+  19  GU566021.1    93.31%    passed      5.58%
+  20  GU904045.1     4.03%    failed      0.18%
+  21  GU997097.1     2.51%    passed     73.47%
+  22  HM015222.1     2.51%    failed      0.16%
+  23  HQ728461.1    93.71%    passed     18.21%
+  24  HQ834697.1     2.07%    passed     26.54%
+  25  JN037851.1    93.85%    passed      9.46%
+  26  JQ287716.2    74.86%    passed     98.19%
+  27  JX028271.1     2.72%    passed      9.90%
+  28  JX193697.1     2.50%    failed      0.12%
+  29  JX193700.1     1.84%    failed      0.00%
+  30  JX465369.1    94.90%    passed     56.89%
+  31  JX465379.1    95.18%    failed      0.27%
+  32  JX465381.1    95.18%    failed      0.05%
+  33  JX465382.1    95.18%    failed      0.11%
+  34  JX465383.1    95.18%    failed      0.12%
+  35  JX912953.2     3.08%    passed     49.50%
+  36  JX990941.1    88.38%    passed     85.68%
+  37  JX990946.1    84.75%    passed     43.98%
+  38  JX990965.1    88.38%    passed     95.90%
+  39  KC490923.1     3.43%    passed     32.55%
+  40  KC631784.1     2.62%    passed     40.61%
+  41  KC880348.1    74.30%    passed     29.95%
+  42  KF010517.1    88.09%    passed     74.97%
+  43  KF031355.1    88.09%    passed     85.44%
+  44  KF704713.1    91.57%    passed     55.78%
+  45  KF704715.1    88.05%    passed     85.10%
+  46  KF704716.1    82.76%    passed     90.18%
+  47  KF704717.1    82.76%    passed     82.14%
+  48  KF705679.1     2.87%    passed     95.93%
+  49  KF974361.1    36.58%    passed     53.80%
+  50  KJ000540.1    94.47%    passed     36.81%
+  51  KJ857315.1     2.20%    passed     71.82%
+  52  KJ857316.1     2.63%    passed     61.69%
+  53  KJ857320.1     3.39%    passed     88.98%
+  54  KM102249.1     2.91%    passed     53.18%
+  55  KR072623.1     2.44%    failed      1.74%
+  56  KR920360.1    94.51%    passed      8.20%
+  57  KT316176.1    46.75%    failed      0.29%
+  58  KT899703.1     2.91%    passed     19.49%
+  59  KU297981.1    94.84%    passed     33.24%
+  60  KU950715.1     2.54%    failed      0.56%
+  61  KX512432.1     2.44%    failed      0.70%
+  62  KX779125.1     3.06%    passed      5.38%
+  63  KX845680.1     4.39%    failed      0.00%
+  64  KY040508.1    89.70%    failed      3.18%
+  65  KY751731.1    94.35%    passed     71.24%
+  66  LC553715.1     2.94%    passed     22.48%
+  67  MF683846.1     2.81%    failed      0.00%
+  68  MG386252.1    94.84%    passed     27.26%
+  69  MG663536.1     2.85%    failed      1.74%
+  70  MK165653.1     4.16%    failed      0.00%
+  71  MK542664.1     3.55%    passed     41.79%
+  72  MK605664.1    97.10%    passed     72.92%
+  73  MK605665.1    97.10%    passed     84.51%
+  74  MK883761.1     3.89%    passed     52.57%
+  75  MN006903.1    79.60%    passed     38.47%
+  76  MN337866.1    94.31%    passed     13.05%
+  77  MN608087.1     3.57%    failed      0.85%
+  78  MN639746.1     2.62%    passed     15.36%
+  79  MN850095.1     2.96%    passed     83.08%
+  80  MT441741.1     3.18%    passed     85.21%
+  81  MT993951.1    94.17%    passed     18.65%
+  82  MW349026.1    94.66%    passed     86.66%
+  83  MZ191082.1    94.60%    passed     85.06%
+  84  NC_034401.1    2.54%    failed      0.56%
+  85  NC_038299.1    2.57%    failed      1.54%
+  86  NC_038515.1    2.91%    passed     53.18%
+  87  NC_043175.1   34.84%    passed     52.03%
+  88  NC_043407.1   94.01%    passed     54.28%
+  89  NC_055632.1    4.16%    failed      0.00%
+  90  NC_078262.1    3.05%    passed      7.31%
+  91  NC_078485.1    2.91%    failed      1.11%
+  92  OM912840.1    94.57%    failed      2.80%
+  93  OM912841.1    94.57%    failed      2.16%
+  94  OM912842.1    94.63%    failed      3.17%
+  95  OM912843.1    94.57%    failed      0.32%
+  96  OM912844.1    94.57%    failed      0.47%
+  97  OM963009.1    94.57%    failed      0.47%
+  98  ON571586.1     2.99%    passed     21.70%
+  99  ON571589.1     2.78%    passed     18.88%
+ 100  OR047284.1    94.41%    passed     18.12%
+ 101  OR684449.1     6.48%    failed      0.89%
+ 102  OR934973.1    94.75%    failed      0.65%
+ 103  OR934974.1    94.75%    failed      0.95%
+WARNING: 47 sequences contain more than 50% gaps/ambiguity
+****  TOTAL         44.66%  35 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: NC_038515.1 is identical to KM102249.1 but kept for subsequent analysis
+NOTE: NC_034401.1 is identical to KU950715.1 but kept for subsequent analysis
+NOTE: NC_055632.1 is identical to MK165653.1 but kept for subsequent analysis
+NOTE: OM963009.1 is identical to OM912844.1 but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.125 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 782323)...
+
+NOTE: 86 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 24 CPU cores
+Increase to 10 rounds for branch lengths
+18 trees examined
+Threads: 1 / Time: 24.980 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -279813
+Threads: 2 / Time: 15.046 sec / Speedup: 1.660 / Efficiency: 83% / LogL: -279813
+Threads: 3 / Time: 11.519 sec / Speedup: 2.169 / Efficiency: 72% / LogL: -279813
+Threads: 4 / Time: 10.426 sec / Speedup: 2.396 / Efficiency: 60% / LogL: -279813
+Threads: 5 / Time: 7.656 sec / Speedup: 3.263 / Efficiency: 65% / LogL: -279813
+Threads: 6 / Time: 7.392 sec / Speedup: 3.379 / Efficiency: 56% / LogL: -279813
+Threads: 7 / Time: 6.835 sec / Speedup: 3.655 / Efficiency: 52% / LogL: -279813
+Threads: 8 / Time: 6.128 sec / Speedup: 4.076 / Efficiency: 51% / LogL: -279813
+Threads: 9 / Time: 6.252 sec / Speedup: 3.996 / Efficiency: 44% / LogL: -279813
+BEST NUMBER OF THREADS: 8
+
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.235, 0.645 / LogL: -209621.016
+Init pinv, alpha: 0.030, 1.000 / Estimate: 0.235, 0.645 / LogL: -209621.264
+Init pinv, alpha: 0.061, 1.000 / Estimate: 0.235, 0.645 / LogL: -209621.463
+Init pinv, alpha: 0.091, 1.000 / Estimate: 0.235, 0.645 / LogL: -209621.130
+Init pinv, alpha: 0.121, 1.000 / Estimate: 0.235, 0.645 / LogL: -209621.430
+Init pinv, alpha: 0.152, 1.000 / Estimate: 0.235, 0.645 / LogL: -209621.700
+Init pinv, alpha: 0.182, 1.000 / Estimate: 0.235, 0.645 / LogL: -209621.883
+Init pinv, alpha: 0.213, 1.000 / Estimate: 0.235, 0.644 / LogL: -209621.008
+Init pinv, alpha: 0.243, 1.000 / Estimate: 0.235, 0.644 / LogL: -209621.053
+Init pinv, alpha: 0.273, 1.000 / Estimate: 0.235, 0.645 / LogL: -209621.815
+Optimal pinv,alpha: 0.235, 0.644 / LogL: -209621.008
+
+Parameters optimization took 40.204 sec
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 0.061960 sec (of wall-clock time) 0.354195 sec(of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing RapidNJ tree took 0.232801 sec (of wall-clock time) 0.268872 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -210868.113
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 14.179 second
+Computing log-likelihood of 98 initial trees ... 4.775 seconds
+Current best score: -209621.008
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -209388.659
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -209293.650
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -209279.436
+Iteration 10 / LogL: -209279.920 / Time: 0h:2m:55s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 14: -209268.884
+Iteration 20 / LogL: -209273.222 / Time: 0h:3m:16s
+Finish initializing candidate tree set (12)
+Current best tree score: -209268.884 / CPU time: 58.888
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -209281.874 / Time: 0h:3m:31s (0h:10m:13s left)
+Iteration 40 / LogL: -209275.757 / Time: 0h:3m:45s (0h:7m:7s left)
+UPDATE BEST LOG-LIKELIHOOD: -209268.880
+Iteration 50 / LogL: -209278.675 / Time: 0h:4m:2s (0h:5m:16s left)
+Log-likelihood cutoff on original alignment: -209338.679
+Iteration 60 / LogL: -209270.378 / Time: 0h:4m:19s (0h:3m:57s left)
+Iteration 70 / LogL: -209276.662 / Time: 0h:4m:37s (0h:2m:57s left)
+Iteration 80 / LogL: -209269.863 / Time: 0h:4m:51s (0h:2m:5s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 89: -209268.588
+Iteration 90 / LogL: -209278.529 / Time: 0h:5m:5s (0h:5m:39s left)
+Iteration 100 / LogL: -209462.045 / Time: 0h:5m:15s (0h:4m:43s left)
+Log-likelihood cutoff on original alignment: -209338.679
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -209268.429
+Iteration 110 / LogL: -209285.950 / Time: 0h:5m:29s (0h:4m:32s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 113: -209268.048
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 118: -209267.483
+Iteration 120 / LogL: -209268.889 / Time: 0h:5m:44s (0h:4m:43s left)
+Iteration 130 / LogL: -209271.218 / Time: 0h:6m:0s (0h:4m:5s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 134: -209267.246
+Iteration 140 / LogL: -209324.717 / Time: 0h:6m:13s (0h:4m:12s left)
+Iteration 150 / LogL: -209270.327 / Time: 0h:6m:27s (0h:3m:38s left)
+Log-likelihood cutoff on original alignment: -209333.756
+Iteration 160 / LogL: -209271.106 / Time: 0h:6m:42s (0h:3m:7s left)
+Iteration 170 / LogL: -209267.694 / Time: 0h:6m:57s (0h:2m:37s left)
+Iteration 180 / LogL: -209269.642 / Time: 0h:7m:8s (0h:2m:9s left)
+Iteration 190 / LogL: -209272.533 / Time: 0h:7m:25s (0h:1m:43s left)
+Iteration 200 / LogL: -209268.892 / Time: 0h:7m:38s (0h:1m:18s left)
+Log-likelihood cutoff on original alignment: -209333.756
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.996
+Iteration 210 / LogL: -209267.360 / Time: 0h:7m:52s (0h:3m:23s left)
+Iteration 220 / LogL: -209268.945 / Time: 0h:8m:4s (0h:2m:57s left)
+Iteration 230 / LogL: -209270.478 / Time: 0h:8m:16s (0h:2m:31s left)
+TREE SEARCH COMPLETED AFTER 235 ITERATIONS / Time: 0h:8m:24s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -209267.246
+Optimal log-likelihood: -209267.244
+Rate parameters:  A-C: 7.77919  A-G: 10.61797  A-T: 2.30730  C-G: 3.89680  C-T: 25.41334  G-T: 1.00000
+Base frequencies:  A: 0.333  C: 0.153  G: 0.210  T: 0.304
+Proportion of invariable sites: 0.234
+Gamma shape alpha: 0.636
+Parameters optimization took 1 rounds (0.169 sec)
+BEST SCORE FOUND : -209267.244
+Creating bootstrap support values...
+Split supports printed to NEXUS file tree_ufb.splits.nex
+Total tree length: 34.094
+
+Total number of iterations: 235
+CPU time used for tree search: 2807.961 sec (0h:46m:47s)
+Wall-clock time used for tree search: 366.850 sec (0h:6m:6s)
+Total CPU time used: 3500.367 sec (0h:58m:20s)
+Total wall-clock time used: 505.440 sec (0h:8m:25s)
+
+Computing bootstrap consensus tree...
+Reading input file tree_ufb.splits.nex...
+103 taxa and 392 splits.
+Consensus tree written to tree_ufb.contree
+Reading input trees file tree_ufb.contree
+Log-likelihood of consensus tree: -209267.684
+
+Analysis results written to: 
+  IQ-TREE report:                tree_ufb.iqtree
+  Maximum-likelihood tree:       tree_ufb.treefile
+  Likelihood distances:          tree_ufb.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          tree_ufb.splits.nex
+  Consensus tree:                tree_ufb.contree
+  Screen log file:               tree_ufb.log
+
+Date and Time: Sat Apr 20 14:56:31 2024
