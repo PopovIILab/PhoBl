@@ -5,7 +5,6 @@
 **Files**:
 - [`Lab_journal.ipynb`](https://github.com/PopovIILab/PhoBl/blob/main/Lab_journal.ipynb) - laboratory journal with commands to reproduce pipeline
 - [`dstu_hantavirus_phylo.yaml`](https://github.com/PopovIILab/PhoBl/blob/main/dstu_hantavirus_phylo.yaml) - conda environment
-- [`geo-map.R`](https://github.com/PopovIILab/PhoBl/blob/main/geo-map.R) - R script to draw phylogeography plot
 - [`data`](https://github.com/PopovIILab/PhoBl/tree/main/data) - data folder:
   - [`accession_numbers.txt`](https://github.com/PopovIILab/PhoBl/blob/main/data/accession_numbers.txt) - list of accession numbers
   - [`all_seqs.fa`](https://github.com/PopovIILab/PhoBl/blob/main/data/all_seqs.fa) - downloaded sequences
