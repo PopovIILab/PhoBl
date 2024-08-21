@@ -30,8 +30,8 @@ conda env create -f dstu_hantavirus_phylo.yaml
 
 **Pipeline:**
 
-<img src="https://github.com/PopovIILab/PhoBl/blob/main/imgs/PhoBl_pipeline_light.png#gh-light-mode-only" width="75%"/>
-<img src="https://github.com/PopovIILab/PhoBl/blob/main/imgs/PhoBl_pipeline_dark.png#gh-dark-mode-only" width="75%"/>
+<img src="https://github.com/PopovIILab/PhoBl/blob/main/imgs/PhoBl_pipeline_light.png#gh-light-mode-only" width="100%"/>
+<img src="https://github.com/PopovIILab/PhoBl/blob/main/imgs/PhoBl_pipeline_dark.png#gh-dark-mode-only" width="100%"/>
 
 _Figure 1. Pipeline overview._
 
