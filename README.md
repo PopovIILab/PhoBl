@@ -20,6 +20,7 @@
   - [`tree_ufb.treefile`](https://github.com/PopovIILab/PhoBl/blob/main/tree/tree_ufb.treefile) - unannotated tree
   - [`annotated_tree.treefile`](https://github.com/PopovIILab/PhoBl/blob/main/tree/annotated_tree.treefile) - annotated tree
   - Bunch of log files
+- [`map`](https://github.com/PopovIILab/PhoBl/tree/main/map) - folder with the `R` script to visualize the map
 
 **Instruction**:
 - Create new environment `dstu_hantavirus_phylo`
