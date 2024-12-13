@@ -42,3 +42,5 @@ _Figure 1. Pipeline overview._
 The paper has been published on December 12, 2024 in Brazilian Journal of Microbiology
 
 [Ohlopkova, O.V., Stolbunova, K.A., Popov, I.V. et al. Detection of Brno loanvirus (_Loanvirus brunaense_) in common noctule bats (_Nyctalus noctula_) in Southern Russia. Braz J Microbiol (2024). https://doi.org/10.1007/s42770-024-01587-5](https://link.springer.com/article/10.1007/s42770-024-01587-5#Fig1)
+
+Full text available [here](https://rdcu.be/d3rRd)
