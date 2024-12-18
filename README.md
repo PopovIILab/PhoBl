@@ -1,6 +1,6 @@
 # Phylogenetics of _Brno loanviruses_
 
-> This is the repository for supplementary materials for the upcoming publication
+> This is the repository for supplementary materials for the [publication](#citation)
 
 **Files**:
 - 📑 [`Lab_journal.ipynb`](https://github.com/PopovIILab/PhoBl/blob/main/Lab_journal.ipynb) - laboratory journal with commands to reproduce pipeline
@@ -36,3 +36,11 @@ conda env create -f dstu_hantavirus_phylo.yaml
 _Figure 1. Pipeline overview._
 
 📝 See [laboratory journal](https://github.com/PopovIILab/PhoBl/blob/main/Lab_journal.ipynb) for more details
+
+## **Citation**
+
+The paper has been published on December 12, 2024 in Brazilian Journal of Microbiology
+
+[Ohlopkova, O.V., Stolbunova, K.A., Popov, I.V. et al. Detection of Brno loanvirus (_Loanvirus brunaense_) in common noctule bats (_Nyctalus noctula_) in Southern Russia. Braz J Microbiol (2024). https://doi.org/10.1007/s42770-024-01587-5](https://link.springer.com/article/10.1007/s42770-024-01587-5#Fig1)
+
+Full text available [here](https://rdcu.be/d3rRd)
