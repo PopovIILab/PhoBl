@@ -1,4 +1,4 @@
-# Phylogenetics of _Brno loanviruses_
+# Phylogenetics of _Brno loanviruses_s
 
 > This is the repository for supplementary materials for the [publication](#citation)
 
