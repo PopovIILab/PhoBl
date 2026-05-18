@@ -1,10 +1,11 @@
 # Phylogenetics of _Brno loanviruses_
+[![CI](https://github.com/PopovIILab/PhoBl/actions/workflows/test-env.yml/badge.svg)](https://github.com/PopovIILab/PhoBl/actions/workflows/test-env.yml)
 
 > This is the repository for supplementary materials for the [publication](#citation)
 
 **Files**:
 - 📑 [`Lab_journal.ipynb`](https://github.com/PopovIILab/PhoBl/blob/main/Lab_journal.ipynb) - laboratory journal with commands to reproduce pipeline
-- 📑 [`dstu_hantavirus_phylo.yaml`](https://github.com/PopovIILab/PhoBl/blob/main/dstu_hantavirus_phylo.yaml) - conda environment
+- 📑 [`phobl.yaml`](https://github.com/PopovIILab/PhoBl/blob/main/phobl.yaml) - conda environment
 - 📁 [`data`](https://github.com/PopovIILab/PhoBl/tree/main/data) - data folder:
   - 📑 [`accession_numbers.txt`](https://github.com/PopovIILab/PhoBl/blob/main/data/accession_numbers.txt) - list of accession numbers
   - 📑 [`all_seqs.fa`](https://github.com/PopovIILab/PhoBl/blob/main/data/all_seqs.fa) - downloaded sequences
@@ -23,9 +24,9 @@
 - 📁 [`map`](https://github.com/PopovIILab/PhoBl/tree/main/map) - folder with the `R` script to visualize the map
 
 **Instruction**:
-- Create new environment `dstu_hantavirus_phylo`
+- Create new environment `phobl`
 ```bash
-conda env create -f dstu_hantavirus_phylo.yaml
+conda env create -f phobl.yaml
 ```
 
 **Pipeline:**
@@ -41,6 +42,6 @@ _Figure 1. Pipeline overview._
 
 The paper has been published on December 12, 2024 in Brazilian Journal of Microbiology
 
-[Ohlopkova, O.V., Stolbunova, K.A., Popov, I.V. et al. Detection of Brno loanvirus (_Loanvirus brunaense_) in common noctule bats (_Nyctalus noctula_) in Southern Russia. Braz J Microbiol (2024). https://doi.org/10.1007/s42770-024-01587-5](https://link.springer.com/article/10.1007/s42770-024-01587-5#Fig1)
+[Ohlopkova, O.V., Stolbunova, K.A., Popov, I.V. et al. Detection of Brno loanvirus (_Loanvirus brunaense_) in common noctule bats (_Nyctalus noctula_) in Southern Russia. Braz J Microbiol (2024). https://doi.org/10.1007/s42770-024-01587-5](https://link.springer.com/article/10.1007/s42770-024-01587-5)
 
 Full text available [here](https://rdcu.be/d3rRd)
