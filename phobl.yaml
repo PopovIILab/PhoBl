@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - python=3.11.9
-  - biopython=1.70
+  - biopython=1.78
   - entrez-direct=21.6
   - mafft=7.525
   - iqtree=2.3.0
