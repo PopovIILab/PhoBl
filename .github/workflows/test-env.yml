@@ -15,4 +15,4 @@ jobs:
         with:
           miniforge-version: latest
           activate-environment: test
-      - run: mamba env create -f envs/${{ matrix.env }} --dry-run
+      - run: mamba env create -f ${{ matrix.env }} --dry-run
