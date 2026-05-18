@@ -1,0 +1,13 @@
+name: phobl
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.9
+  - biopython=1.70
+  - entrez-direct=21.6
+  - mafft=7.525
+  - iqtree=2.3.0
+  - ipykernel=6.28.0
+  - wget
